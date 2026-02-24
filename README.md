@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="center">
+    <img src="public/beach.gif" alt="Sunset beach banner" width="100%" />
+    </p>
+
 
 <!--
 **san-rat/san-rat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
